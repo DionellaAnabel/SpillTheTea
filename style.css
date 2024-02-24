@@ -1,0 +1,22 @@
+body{
+    font-family: "Press Start 2P", system-ui;
+    background: #FDE2E4;
+    color: #fe5d9f;
+    font-size: 20px;
+}
+p{
+font-size: 15px;
+color: #ff92c2;
+}
+.quote-box{
+   background: #fff;
+   width: 200px;
+   position: absolute;
+   top: 50%
+   left:50%
+   padding: 40px;
+   border-radius: 20px;
+   text-align: center;
+   box-shadow: 0 10px 20px 0px rgba(0,0,0,0.15);
+   transform: translate(50%,75%);
+}
