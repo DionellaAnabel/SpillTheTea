@@ -37,6 +37,22 @@ let quotes =
     'Where are you from?',
     'Would you rather live by the ocean or in the mountains',
     'What’s the longest trip you’ve taken?',
+    'What’s a bad habit you’re trying to break?',
+    'What is your most-used emoji?',
+    'Are you a morning person or a night owl?',
+    'Do you like to recharge alone or around other people?',
+    'What\'s your favorite childhood memory?',
+    'Do you have dreams? What\’s an interesting dream you had lately?',
+    'What really makes you angry?',
+    'What do you need more of in your life?',
+    'What do you need less of in your life?',
+    'How would you describe your fashion? Do you like shopping?',
+    'Can you cook?',
+    'Do you like books? If so, what\'s your favorite book?',
+    'Do you prefer books or movies?',
+    'What is your favorite trait in me?',
+    'What’s your favorite subject?',
+    'How was your first impression of me?',
 ];
 btn.addEventListener('click', function(){
     var randomQuote = quotes[Math.floor(Math.random()*quotes.length)]
