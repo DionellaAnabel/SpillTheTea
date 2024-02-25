@@ -1,21 +1,22 @@
 body{
-    font-family: "Press Start 2P", system-ui;
-    background: #FDE2E4;
-    color: #fe5d9f;
-    font-size: 20px;
+margin:70px;
+font-family: "Press Start 2P", system-ui;
+background: #FDE2E4;
+color: #fe5d9f;
+font-size: 20px;
 }
 p{
 font-size: 15px;
 color: #ff92c2;
 }
 .header{
-    font-family: "Press Start 2P", system-ui;
-    color: #ff92c2;
-    font-size: 15px;
+font-family: "Press Start 2P", system-ui;
+color: #ff92c2;
+font-size: 15px;
 }
 .button-container{
-
-    display: flex;
+display: flex;
+margin: 50px 100px;
 }
 .button{
 font-family: "Press Start 2P", system-ui;
@@ -24,4 +25,16 @@ background-color:#fe5d9f;
 color:#fff;
 border-color: #fff;
 margin-right: 16px;
+text-align:center;
+padding: 14px 25px
+}
+img{
+display:block;
+max-width: 100%;
+height: auto;
+vertical-align: middle;
+font-style: italic;
+background-repeat: no-repeat;
+background-size: cover;
+shape-margin: 0.75rem
 }
