@@ -39,7 +39,7 @@ border-color: #fff;
 margin-right: 16px;
 text-align:center;
 padding: 14px 25px
-margin-bottom: 20px;
+
 }
 img{
 display:block;
@@ -67,4 +67,5 @@ margin-bottom: 20px;
   position: absolute;
   margin-top: 500px
   left: 50%;
+  margin-bottom: 20px;
 }
