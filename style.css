@@ -9,7 +9,6 @@ font-size: 20px;
   scroll-snap-type: y mandatory;
   scroll-snap-align: start;
   height: 100vh;
-  align: center;
   }
 section{
   height: 100vh;
@@ -29,7 +28,7 @@ font-size: 15px;
 }
 .button-container{
 display: flex;
-margin: 50px 100px;
+margin: 500px 100px;
 }
 .button{
 font-family: "Press Start 2P", system-ui;
