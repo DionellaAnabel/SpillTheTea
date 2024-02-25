@@ -38,3 +38,13 @@ background-repeat: no-repeat;
 background-size: cover;
 shape-margin: 0.75rem
 }
+#btn{
+font-family: "Press Start 2P", system-ui;
+font-size:20px;
+background-color:#fe5d9f;
+color:#fff;
+border-color: #fff;
+margin-right: 16px;
+text-align:center;
+padding: 14px 25px
+}
