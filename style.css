@@ -8,15 +8,20 @@ p{
 font-size: 15px;
 color: #ff92c2;
 }
-.quote-box{
-   background: #fff;
-   width: 200px;
-   position: absolute;
-   top: 50%
-   left:50%
-   padding: 40px;
-   border-radius: 20px;
-   text-align: center;
-   box-shadow: 0 10px 20px 0px rgba(0,0,0,0.15);
-   transform: translate(50%,75%);
+.header{
+    font-family: "Press Start 2P", system-ui;
+    color: #ff92c2;
+    font-size: 15px;
+}
+.button-container{
+
+    display: flex;
+}
+.button{
+font-family: "Press Start 2P", system-ui;
+font-size:20px;
+background-color:#fe5d9f;
+color:#fff;
+border-color: #fff;
+margin-right: 16px;
 }
