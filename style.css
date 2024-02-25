@@ -8,10 +8,10 @@ font-size: 20px;
 .container{
   scroll-snap-type: y mandatory;
   scroll-snap-align: start;
-  height: 80vh;
+  height: 100vh;
   }
 section{
-  height: 80vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
