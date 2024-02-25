@@ -39,8 +39,7 @@ border-color: #fff;
 margin-right: 16px;
 text-align:center;
 padding: 14px 25px
-position: relative;
-top: 200px;
+margin-bottom: 20px;
 }
 img{
 display:block;
@@ -61,8 +60,7 @@ border-color: #fff;
 margin-right: 16px;
 text-align:center;
 padding: 14px 25px
-position: relative;
-top: 200px;
+margin-bottom: 20px;
 }
 .center {
   margin: 0;
