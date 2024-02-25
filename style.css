@@ -64,7 +64,6 @@ padding: 14px 25px
 .center {
   margin: 0;
   position: absolute;
-  margin-top: 500px
-  left: 50%;
+  margin-left:500px
   margin-bottom: 20px;
 }
