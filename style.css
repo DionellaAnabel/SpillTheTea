@@ -67,6 +67,6 @@ top: 200px;
 .center {
   margin: 0;
   position: absolute;
-  top: 90%;
+  margin-top: 500px
   left: 50%;
 }
