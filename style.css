@@ -28,7 +28,7 @@ font-size: 15px;
 }
 .button-container{
 display: flex;
-margin: 500px 100px;
+margin: 50px 100px;
 }
 .button{
 font-family: "Press Start 2P", system-ui;
@@ -60,8 +60,4 @@ border-color: #fff;
 margin-right: 16px;
 text-align:center;
 padding: 14px 25px
-}
-.center {
-  position: absolute;
-  margin-bottom: 20px;
 }
