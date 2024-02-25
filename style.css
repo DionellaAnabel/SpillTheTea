@@ -63,6 +63,6 @@ padding: 14px 25px
 }
 .center {
   position: absolute;
-  margin-left:1000px
+  margin: auto;
   margin-bottom: 20px;
 }
