@@ -5,6 +5,16 @@ background: #FDE2E4;
 color: #fe5d9f;
 font-size: 20px;
 }
+.container{
+  scroll-snap-type: y mandatory;
+  scroll-snap-align: start;
+  }
+section{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 p{
 font-size: 15px;
 color: #ff92c2;
