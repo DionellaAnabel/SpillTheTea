@@ -63,7 +63,7 @@ padding: 14px 25px
 .center {
   margin: 0;
   position: absolute;
-  top: 50%;
+  top: 90%;
   left: 50%;
   -ms-transform: translate(-90%, -50%);
   transform: translate(-50%, -50%);
